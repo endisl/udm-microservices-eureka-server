@@ -11,3 +11,9 @@
 ### Instances
 
 ![Screenshot](src/main/resources/static/allInstances.png)
+
+### Documentation
+
+![Screenshot](src/main/resources/static/bookSwagger.png)
+
+![Screenshot](src/main/resources/static/exchangeSwagger.png)
