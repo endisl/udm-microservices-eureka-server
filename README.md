@@ -17,3 +17,7 @@
 ![Screenshot](src/main/resources/static/bookSwagger.png)
 
 ![Screenshot](src/main/resources/static/exchangeSwagger.png)
+
+### Distributed Tracing
+
+![Screenshot](src/main/resources/static/tracingZipkin.png)
